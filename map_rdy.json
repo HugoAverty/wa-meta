@@ -13217,6 +13217,14 @@
                 {
                  "animation":[
                         {
+                         "duration":75,
+                         "tileid":479
+                        }],
+                 "id":1283
+                }, 
+                {
+                 "animation":[
+                        {
                          "duration":100,
                          "tileid":1368
                         }, 
