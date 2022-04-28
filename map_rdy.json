@@ -79,7 +79,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitUrl",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.retrogames.cc\/embed\/9157-metal-slug-super-vehicle-001.html"
                         }],
