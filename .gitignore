@@ -1,3 +1,6 @@
 /node_modules/
 yarn.lock
 .DS_Store
+src/DAO.docx
+src/Sogeti.docx
+src/Confidential1.docx
