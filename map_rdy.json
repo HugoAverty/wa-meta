@@ -135,7 +135,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.retrogames.cc\/embed\/9157-metal-slug-super-vehicle-001.html"
+                         "value":"https:\/\/supermarioemulator.com\/mario.php"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -153,7 +153,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.retrogames.cc\/embed\/9157-metal-slug-super-vehicle-001.html"
+                         "value":"https:\/\/www.retrogames.cc\/embed\/24792-super-bomberman-europe.html"
                         }],
                  "type":"tilelayer",
                  "visible":true,
