@@ -9,7 +9,7 @@ let currentPopup: any = undefined;
 WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
-    
+
     WA.room.onEnterLayer('zones/exitWA').subscribe(() => {
         console.log('exitWA')
         //@ts-ignore
@@ -23,7 +23,7 @@ WA.onInit().then(() => {
     WA.room.onEnterLayer('zones/exitGen1').subscribe(() => {
         console.log('exitGen1')
         //@ts-ignore
-        currentPopup = WA.ui.openPopup("exitGen1Popup", "Gates will open only to Gen1 owners! Mint will take place in June. Follow us!", [
+        currentPopup = WA.ui.openPopup("exitGen1Popup", "Gates will open only to Gen1 owners! Mint will take place in June. More info here: \r\nhttps://www.metaventu.re\r\nStay connected with us!", [
             {label: 'Discord', className: 'primary', callback: () => WA.nav.openTab("https://discord.gg/DqUkUwA88d")},
             {label: 'Twitter', className: 'primary', callback: () => WA.nav.openTab("https://twitter.com/Metadventure_")}
         ]);
@@ -34,7 +34,7 @@ WA.onInit().then(() => {
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
     }).catch(e => console.error(e));
-    
+
 }).catch(e => console.error(e));
 
 function closePopup(){
