@@ -5262,6 +5262,72 @@
                  "width":256,
                  "x":96,
                  "y":1088
+                }, 
+                {
+                 "height":230,
+                 "id":22,
+                 "name":"daoFocusZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zone_margin",
+                         "type":"string",
+                         "value":"0.5"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":180,
+                 "x":1201,
+                 "y":1462
+                }, 
+                {
+                 "height":227,
+                 "id":24,
+                 "name":"sogetiFocusZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zone_margin",
+                         "type":"string",
+                         "value":"0.5"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":183,
+                 "x":257,
+                 "y":2709
+                }, 
+                {
+                 "height":233,
+                 "id":25,
+                 "name":"cityFocusZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"0.5"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":193,
+                 "x":1153,
+                 "y":3862
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6930,7 +6996,7 @@
          "y":0
         }],
  "nextlayerid":1483,
- "nextobjectid":22,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
