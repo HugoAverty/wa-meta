@@ -1,4 +1,3 @@
-/// <reference path="../node_modules/@workadventure/iframe-api-typings/iframe_api.d.ts" />
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
@@ -11,8 +10,7 @@ WA.onInit().then(() => {
     console.log('Player tags: ',WA.player.tags)
 
     WA.room.onEnterLayer('zones/exitWA').subscribe(() => {
-        console.log('exitWA')
-        //@ts-ignore
+        console.log('exitWA');
         currentPopup = WA.ui.openPopup("exitWAPopup", "Teleport to meet the team!", [
             {label: 'Later', className: 'normal', callback: () => closePopup()},
             {label: 'Hell yeah!', className: 'primary', callback: () =>  WA.nav.goToPage("https://play.staging.workadventu.re/@/tcm/workadventure/wa-village")}
@@ -21,8 +19,7 @@ WA.onInit().then(() => {
     WA.room.onLeaveLayer('zones/exitWA').subscribe(closePopup)
 
     WA.room.onEnterLayer('zones/exitGen1').subscribe(() => {
-        console.log('exitGen1')
-        //@ts-ignore
+        console.log('exitGen1');
         currentPopup = WA.ui.openPopup("exitGen1Popup", "Gates will open only to Gen1 owners! Mint will take place during the Summer season.\r\nStay connected with us!", [
             {label: 'Website', className: 'primary', callback: () => WA.nav.openTab("https://www.metadventu.re")},
             {label: 'Discord', className: 'primary', callback: () => WA.nav.openTab("https://discord.gg/DqUkUwA88d")},
