@@ -406,7 +406,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"assets\/base\/Base_SpecialZone.png",
+         "image":"tilesets\/base\/Base_SpecialZone.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -444,7 +444,7 @@
         {
          "columns":40,
          "firstgid":13,
-         "image":"assets\/middleage\/mid_Shadows-1.png",
+         "image":"tilesets\/middleage\/mid_Shadows-1.png",
          "imageheight":1024,
          "imagewidth":1280,
          "margin":0,
@@ -458,7 +458,7 @@
         {
          "columns":64,
          "firstgid":1293,
-         "image":"assets\/middleage\/mid_Trees-and-flowers-1.png",
+         "image":"tilesets\/middleage\/mid_Trees-and-flowers-1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -472,7 +472,7 @@
         {
          "columns":64,
          "firstgid":5389,
-         "image":"assets\/middleage\/mid_Floor.png",
+         "image":"tilesets\/middleage\/mid_Floor.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -610,7 +610,7 @@
         {
          "columns":64,
          "firstgid":9485,
-         "image":"assets\/middleage\/mid_Inside-Deco.png",
+         "image":"tilesets\/middleage\/mid_Inside-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -624,7 +624,7 @@
         {
          "columns":40,
          "firstgid":13581,
-         "image":"assets\/modernage\/mod_Houses-2.png",
+         "image":"tilesets\/modernage\/mod_Houses-2.png",
          "imageheight":1312,
          "imagewidth":1280,
          "margin":0,
@@ -753,7 +753,7 @@
         {
          "columns":56,
          "firstgid":15221,
-         "image":"assets\/middleage\/mid_Houses.png",
+         "image":"tilesets\/middleage\/mid_Houses.png",
          "imageheight":1568,
          "imagewidth":1792,
          "margin":0,
@@ -2186,7 +2186,7 @@
         {
          "columns":64,
          "firstgid":17965,
-         "image":"assets\/middleage\/mid_Floor-Deco.png",
+         "image":"tilesets\/middleage\/mid_Floor-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -4269,7 +4269,7 @@
         {
          "columns":40,
          "firstgid":22061,
-         "image":"assets\/modernage\/mod_Deco-Inside-2.png",
+         "image":"tilesets\/modernage\/mod_Deco-Inside-2.png",
          "imageheight":1120,
          "imagewidth":1280,
          "margin":0,
@@ -4283,7 +4283,7 @@
         {
          "columns":64,
          "firstgid":23461,
-         "image":"assets\/middleage\/mid_Water.png",
+         "image":"tilesets\/middleage\/mid_Water.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -4909,7 +4909,7 @@
         {
          "columns":20,
          "firstgid":27557,
-         "image":"assets\/animations\/Anm_heal_003.png",
+         "image":"tilesets\/animations\/Anm_heal_003.png",
          "imageheight":512,
          "imagewidth":640,
          "margin":0,
@@ -6268,7 +6268,7 @@
         {
          "columns":15,
          "firstgid":27877,
-         "image":"assets\/animations\/Anm_heal_004.png",
+         "image":"tilesets\/animations\/Anm_heal_004.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -7039,7 +7039,7 @@
         {
          "columns":63,
          "firstgid":28057,
-         "image":"assets\/middleage\/mid_Interior before order.png",
+         "image":"tilesets\/middleage\/mid_Interior before order.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -7053,7 +7053,7 @@
         {
          "columns":66,
          "firstgid":32026,
-         "image":"assets\/animations\/Anm_Windows.png",
+         "image":"tilesets\/animations\/Anm_Windows.png",
          "imageheight":1536,
          "imagewidth":2112,
          "margin":0,
@@ -7404,7 +7404,7 @@
         {
          "columns":74,
          "firstgid":35194,
-         "image":"assets\/modernage\/Anm_mod_Animations-2.png",
+         "image":"tilesets\/modernage\/Anm_mod_Animations-2.png",
          "imageheight":1664,
          "imagewidth":2368,
          "margin":0,
@@ -7811,7 +7811,7 @@
         {
          "columns":20,
          "firstgid":39042,
-         "image":"assets\/animations\/Anm_smoke.png",
+         "image":"tilesets\/animations\/Anm_smoke.png",
          "imageheight":1536,
          "imagewidth":640,
          "margin":0,
@@ -11602,7 +11602,7 @@
         {
          "columns":32,
          "firstgid":40002,
-         "image":"assets\/modernage\/mod_Deco-Outside-2.png",
+         "image":"tilesets\/modernage\/mod_Deco-Outside-2.png",
          "imageheight":2080,
          "imagewidth":1024,
          "margin":0,
@@ -11616,7 +11616,7 @@
         {
          "columns":63,
          "firstgid":42082,
-         "image":"assets\/middleage\/mid_Inside-Floor.png",
+         "image":"tilesets\/middleage\/mid_Inside-Floor.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -11630,7 +11630,7 @@
         {
          "columns":7,
          "firstgid":46051,
-         "image":"assets\/City\/City_Water_Tank.png",
+         "image":"tilesets\/City\/City_Water_Tank.png",
          "imageheight":528,
          "imagewidth":240,
          "margin":0,
@@ -11644,7 +11644,7 @@
         {
          "columns":26,
          "firstgid":46163,
-         "image":"assets\/modernage\/mod_Floor-Deco-2.png",
+         "image":"tilesets\/modernage\/mod_Floor-Deco-2.png",
          "imageheight":896,
          "imagewidth":832,
          "margin":0,
@@ -11658,7 +11658,7 @@
         {
          "columns":20,
          "firstgid":46891,
-         "image":"assets\/space\/SmallShip.png",
+         "image":"tilesets\/space\/SmallShip.png",
          "imageheight":400,
          "imagewidth":645,
          "margin":0,
@@ -11672,7 +11672,7 @@
         {
          "columns":64,
          "firstgid":47131,
-         "image":"assets\/modernage\/mod_jungle1.png",
+         "image":"tilesets\/modernage\/mod_jungle1.png",
          "imageheight":1824,
          "imagewidth":2048,
          "margin":0,
@@ -11686,7 +11686,7 @@
         {
          "columns":15,
          "firstgid":50779,
-         "image":"assets\/middleage\/mid_Plateforms.png",
+         "image":"tilesets\/middleage\/mid_Plateforms.png",
          "imageheight":1856,
          "imagewidth":480,
          "margin":0,
@@ -11700,7 +11700,7 @@
         {
          "columns":63,
          "firstgid":51649,
-         "image":"assets\/middleage\/mid_Moutains.png",
+         "image":"tilesets\/middleage\/mid_Moutains.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -11714,7 +11714,7 @@
         {
          "columns":63,
          "firstgid":55618,
-         "image":"assets\/middleage\/mid_Moutains.png",
+         "image":"tilesets\/middleage\/mid_Moutains.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,

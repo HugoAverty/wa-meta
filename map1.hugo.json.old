@@ -572,7 +572,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"assets\/base\/Base_SpecialZone.png",
+         "image":"tilesets\/base\/Base_SpecialZone.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -610,7 +610,7 @@
         {
          "columns":40,
          "firstgid":13,
-         "image":"assets\/middleage\/mid_Shadows-1.png",
+         "image":"tilesets\/middleage\/mid_Shadows-1.png",
          "imageheight":1024,
          "imagewidth":1280,
          "margin":0,
@@ -624,7 +624,7 @@
         {
          "columns":64,
          "firstgid":1293,
-         "image":"assets\/middleage\/mid_Trees-and-flowers-1.png",
+         "image":"tilesets\/middleage\/mid_Trees-and-flowers-1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -638,7 +638,7 @@
         {
          "columns":64,
          "firstgid":5389,
-         "image":"assets\/middleage\/mid_Floor.png",
+         "image":"tilesets\/middleage\/mid_Floor.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -776,7 +776,7 @@
         {
          "columns":64,
          "firstgid":9485,
-         "image":"assets\/middleage\/mid_Inside-Deco.png",
+         "image":"tilesets\/middleage\/mid_Inside-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -790,7 +790,7 @@
         {
          "columns":40,
          "firstgid":13581,
-         "image":"assets\/modernage\/mod_Houses-2.png",
+         "image":"tilesets\/modernage\/mod_Houses-2.png",
          "imageheight":1312,
          "imagewidth":1280,
          "margin":0,
@@ -919,7 +919,7 @@
         {
          "columns":56,
          "firstgid":15221,
-         "image":"assets\/middleage\/mid_Houses.png",
+         "image":"tilesets\/middleage\/mid_Houses.png",
          "imageheight":1568,
          "imagewidth":1792,
          "margin":0,
@@ -2352,7 +2352,7 @@
         {
          "columns":64,
          "firstgid":17965,
-         "image":"assets\/middleage\/mid_Floor-Deco.png",
+         "image":"tilesets\/middleage\/mid_Floor-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -4435,7 +4435,7 @@
         {
          "columns":40,
          "firstgid":22061,
-         "image":"assets\/modernage\/mod_Deco-Inside-2.png",
+         "image":"tilesets\/modernage\/mod_Deco-Inside-2.png",
          "imageheight":1120,
          "imagewidth":1280,
          "margin":0,
@@ -4449,7 +4449,7 @@
         {
          "columns":64,
          "firstgid":23461,
-         "image":"assets\/middleage\/mid_Water.png",
+         "image":"tilesets\/middleage\/mid_Water.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -5075,7 +5075,7 @@
         {
          "columns":20,
          "firstgid":27557,
-         "image":"assets\/animations\/Anm_heal_003.png",
+         "image":"tilesets\/animations\/Anm_heal_003.png",
          "imageheight":512,
          "imagewidth":640,
          "margin":0,
@@ -6434,7 +6434,7 @@
         {
          "columns":15,
          "firstgid":27877,
-         "image":"assets\/animations\/Anm_heal_004.png",
+         "image":"tilesets\/animations\/Anm_heal_004.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -7205,7 +7205,7 @@
         {
          "columns":63,
          "firstgid":28057,
-         "image":"assets\/middleage\/mid_Interior before order.png",
+         "image":"tilesets\/middleage\/mid_Interior before order.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -7219,7 +7219,7 @@
         {
          "columns":66,
          "firstgid":32026,
-         "image":"assets\/animations\/Anm_Windows.png",
+         "image":"tilesets\/animations\/Anm_Windows.png",
          "imageheight":1536,
          "imagewidth":2112,
          "margin":0,
@@ -7570,7 +7570,7 @@
         {
          "columns":74,
          "firstgid":35194,
-         "image":"assets\/modernage\/Anm_mod_Animations-2.png",
+         "image":"tilesets\/modernage\/Anm_mod_Animations-2.png",
          "imageheight":1664,
          "imagewidth":2368,
          "margin":0,
@@ -7977,7 +7977,7 @@
         {
          "columns":20,
          "firstgid":39042,
-         "image":"assets\/animations\/Anm_smoke.png",
+         "image":"tilesets\/animations\/Anm_smoke.png",
          "imageheight":1536,
          "imagewidth":640,
          "margin":0,
@@ -11768,7 +11768,7 @@
         {
          "columns":32,
          "firstgid":40002,
-         "image":"assets\/modernage\/mod_Deco-Outside-2.png",
+         "image":"tilesets\/modernage\/mod_Deco-Outside-2.png",
          "imageheight":2080,
          "imagewidth":1024,
          "margin":0,
@@ -11782,7 +11782,7 @@
         {
          "columns":63,
          "firstgid":42082,
-         "image":"assets\/middleage\/mid_Inside-Floor.png",
+         "image":"tilesets\/middleage\/mid_Inside-Floor.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -11796,7 +11796,7 @@
         {
          "columns":7,
          "firstgid":46051,
-         "image":"assets\/City\/City_Water_Tank.png",
+         "image":"tilesets\/City\/City_Water_Tank.png",
          "imageheight":528,
          "imagewidth":240,
          "margin":0,
@@ -11810,7 +11810,7 @@
         {
          "columns":26,
          "firstgid":46163,
-         "image":"assets\/modernage\/mod_Floor-Deco-2.png",
+         "image":"tilesets\/modernage\/mod_Floor-Deco-2.png",
          "imageheight":896,
          "imagewidth":832,
          "margin":0,
@@ -11824,7 +11824,7 @@
         {
          "columns":20,
          "firstgid":46891,
-         "image":"assets\/space\/SmallShip.png",
+         "image":"tilesets\/space\/SmallShip.png",
          "imageheight":400,
          "imagewidth":645,
          "margin":0,
@@ -11838,7 +11838,7 @@
         {
          "columns":64,
          "firstgid":47131,
-         "image":"assets\/modernage\/mod_jungle1.png",
+         "image":"tilesets\/modernage\/mod_jungle1.png",
          "imageheight":1824,
          "imagewidth":2048,
          "margin":0,
@@ -11852,7 +11852,7 @@
         {
          "columns":15,
          "firstgid":50779,
-         "image":"assets\/middleage\/mid_Plateforms.png",
+         "image":"tilesets\/middleage\/mid_Plateforms.png",
          "imageheight":1856,
          "imagewidth":480,
          "margin":0,
@@ -11866,7 +11866,7 @@
         {
          "columns":63,
          "firstgid":51649,
-         "image":"assets\/middleage\/mid_Moutains.png",
+         "image":"tilesets\/middleage\/mid_Moutains.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -11880,7 +11880,7 @@
         {
          "columns":63,
          "firstgid":55618,
-         "image":"assets\/middleage\/mid_Moutains.png",
+         "image":"tilesets\/middleage\/mid_Moutains.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -11894,7 +11894,7 @@
         {
          "columns":89,
          "firstgid":59587,
-         "image":"assets\/map_exports\/map_land.png",
+         "image":"tilesets\/map_exports\/map_land.png",
          "imageheight":1600,
          "imagewidth":2848,
          "margin":0,
@@ -11908,7 +11908,7 @@
         {
          "columns":49,
          "firstgid":64037,
-         "image":"assets\/map_exports\/map_planet1.png",
+         "image":"tilesets\/map_exports\/map_planet1.png",
          "imageheight":1600,
          "imagewidth":1568,
          "margin":0,
@@ -11922,7 +11922,7 @@
         {
          "columns":50,
          "firstgid":66487,
-         "image":"assets\/map_exports\/drop-ville.png",
+         "image":"tilesets\/map_exports\/drop-ville.png",
          "imageheight":960,
          "imagewidth":1600,
          "margin":0,
@@ -11936,7 +11936,7 @@
         {
          "columns":64,
          "firstgid":67987,
-         "image":"..\/wa-wsn\/assets\/cyber\/cbr_all.png",
+         "image":"tilesets\/cyber\/cbr_all.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -15070,7 +15070,7 @@
         {
          "columns":16,
          "firstgid":72083,
-         "image":"..\/wa-wsn\/assets\/cyber4\/parallax_windows.png",
+         "image":"tilesets\/cyber4\/parallax_windows.png",
          "imageheight":269,
          "imagewidth":541,
          "margin":0,
@@ -15084,7 +15084,7 @@
         {
          "columns":40,
          "firstgid":72211,
-         "image":"..\/wa-wsn\/assets\/modernage\/mod_Deco-Inside-2.png",
+         "image":"tilesets\/modernage\/mod_Deco-Inside-2.png",
          "imageheight":1120,
          "imagewidth":1280,
          "margin":0,
@@ -15098,7 +15098,7 @@
         {
          "columns":56,
          "firstgid":73611,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Houses.png",
+         "image":"tilesets\/middleage\/mid_Houses.png",
          "imageheight":1568,
          "imagewidth":1792,
          "margin":0,
@@ -16531,7 +16531,7 @@
         {
          "columns":64,
          "firstgid":76355,
-         "image":"..\/wa-wsn\/assets\/cyber2\/cbr2_all.png",
+         "image":"tilesets\/cyber2\/cbr2_all.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -16545,7 +16545,7 @@
         {
          "columns":20,
          "firstgid":80451,
-         "image":"..\/wa-wsn\/assets\/animations\/Anm_heal_003.png",
+         "image":"tilesets\/animations\/Anm_heal_003.png",
          "imageheight":512,
          "imagewidth":640,
          "margin":0,
@@ -17904,7 +17904,7 @@
         {
          "columns":64,
          "firstgid":80771,
-         "image":"..\/wa-wsn\/assets\/City\/City.png",
+         "image":"tilesets\/City\/City.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -18108,7 +18108,7 @@
         {
          "columns":63,
          "firstgid":84867,
-         "image":"..\/wa-wsn\/assets\/cyberinside\/cbr_Inside.png",
+         "image":"tilesets\/cyberinside\/cbr_Inside.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -18122,7 +18122,7 @@
         {
          "columns":64,
          "firstgid":88836,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Trees-and-flowers-1.png",
+         "image":"tilesets\/middleage\/mid_Trees-and-flowers-1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -18136,7 +18136,7 @@
         {
          "columns":64,
          "firstgid":92932,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Floor-Deco.png",
+         "image":"tilesets\/middleage\/mid_Floor-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -20219,7 +20219,7 @@
         {
          "columns":40,
          "firstgid":97028,
-         "image":"..\/wa-wsn\/assets\/modernage\/mod_Houses-2.png",
+         "image":"tilesets\/modernage\/mod_Houses-2.png",
          "imageheight":1312,
          "imagewidth":1280,
          "margin":0,
@@ -20348,7 +20348,7 @@
         {
          "columns":34,
          "firstgid":98668,
-         "image":"..\/wa-wsn\/assets\/cyber4\/cyber4_cars2.png",
+         "image":"tilesets\/cyber4\/cyber4_cars2.png",
          "imageheight":669,
          "imagewidth":1095,
          "margin":0,
@@ -20984,7 +20984,7 @@
         {
          "columns":39,
          "firstgid":99348,
-         "image":"..\/wa-wsn\/assets\/City\/City3.png",
+         "image":"tilesets\/City\/City3.png",
          "imageheight":1216,
          "imagewidth":1248,
          "margin":0,
@@ -21064,7 +21064,7 @@
         {
          "columns":64,
          "firstgid":100830,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Floor.png",
+         "image":"tilesets\/middleage\/mid_Floor.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -21202,7 +21202,7 @@
         {
          "columns":9,
          "firstgid":104926,
-         "image":"..\/wa-wsn\/assets\/animations\/Anm_barrier.png",
+         "image":"tilesets\/animations\/Anm_barrier.png",
          "imageheight":364,
          "imagewidth":291,
          "margin":0,
@@ -21216,7 +21216,7 @@
         {
          "columns":64,
          "firstgid":105025,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Water.png",
+         "image":"tilesets\/middleage\/mid_Water.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -21855,7 +21855,7 @@
         {
          "columns":63,
          "firstgid":109121,
-         "image":"..\/wa-wsn\/assets\/middleage\/mid_Interior before order.png",
+         "image":"tilesets\/middleage\/mid_Interior before order.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -21869,7 +21869,7 @@
         {
          "columns":66,
          "firstgid":113090,
-         "image":"..\/wa-wsn\/assets\/animations\/Anm_Windows.png",
+         "image":"tilesets\/animations\/Anm_Windows.png",
          "imageheight":1536,
          "imagewidth":2112,
          "margin":0,
@@ -22220,7 +22220,7 @@
         {
          "columns":64,
          "firstgid":116258,
-         "image":"assets\/CustomTileset.png",
+         "image":"tilesets\/CustomTileset.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -22234,7 +22234,7 @@
         {
          "columns":5,
          "firstgid":120354,
-         "image":"assets\/animations\/Anm_arrow.png",
+         "image":"tilesets\/animations\/Anm_arrow.png",
          "imageheight":640,
          "imagewidth":160,
          "margin":0,
@@ -22657,7 +22657,7 @@
         {
          "columns":6,
          "firstgid":120454,
-         "image":"..\/wa-internal-map\/assets\/animated_coffee_32x32.png",
+         "image":"tilesets\/animated_coffee_32x32.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -22727,7 +22727,7 @@
         {
          "columns":16,
          "firstgid":120466,
-         "image":"..\/wa-internal-map\/assets\/19_Hospital_32x32.png",
+         "image":"tilesets\/19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -22740,7 +22740,7 @@
         {
          "columns":6,
          "firstgid":122226,
-         "image":"..\/wa-internal-map\/assets\/special_zones.png",
+         "image":"tilesets\/special_zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -22763,7 +22763,7 @@
         {
          "columns":16,
          "firstgid":122238,
-         "image":"..\/wa-internal-map\/assets\/LimeZu_Office.png",
+         "image":"tilesets\/LimeZu_Office.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -22776,7 +22776,7 @@
         {
          "columns":6,
          "firstgid":123086,
-         "image":"..\/wa-internal-map\/assets\/GrassFont.png",
+         "image":"tilesets\/GrassFont.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -22789,7 +22789,7 @@
         {
          "columns":16,
          "firstgid":123122,
-         "image":"..\/wa-internal-map\/assets\/4_Bedroom_32x32.png",
+         "image":"tilesets\/4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -22802,7 +22802,7 @@
         {
          "columns":10,
          "firstgid":124834,
-         "image":"..\/wa-internal-map\/assets\/GuttyKreumNatureTiles.png",
+         "image":"tilesets\/GuttyKreumNatureTiles.png",
          "imageheight":448,
          "imagewidth":320,
          "margin":0,
@@ -22815,7 +22815,7 @@
         {
          "columns":16,
          "firstgid":124974,
-         "image":"..\/wa-internal-map\/assets\/1_Generic_32x32.png",
+         "image":"tilesets\/1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -22828,7 +22828,7 @@
         {
          "columns":7,
          "firstgid":125934,
-         "image":"..\/wa-internal-map\/assets\/signup-WA.png",
+         "image":"tilesets\/signup-WA.png",
          "imageheight":160,
          "imagewidth":224,
          "margin":0,
@@ -22841,7 +22841,7 @@
         {
          "columns":60,
          "firstgid":125969,
-         "image":"..\/wa-internal-map\/assets\/wp7495798-landscape-pixel-art-wallpapers.png",
+         "image":"tilesets\/wp7495798-landscape-pixel-art-wallpapers.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
@@ -22854,7 +22854,7 @@
         {
          "columns":16,
          "firstgid":127949,
-         "image":"..\/wa-internal-map\/assets\/22_Museum_32x32.png",
+         "image":"tilesets\/22_Museum_32x32.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -22867,7 +22867,7 @@
         {
          "columns":4,
          "firstgid":129901,
-         "image":"..\/wa-internal-map\/assets\/WA_Booth.png",
+         "image":"tilesets\/WA_Booth.png",
          "imageheight":288,
          "imagewidth":128,
          "margin":0,
@@ -22880,7 +22880,7 @@
         {
          "columns":18,
          "firstgid":129937,
-         "image":"..\/wa-internal-map\/assets\/LimeZu_24_User_Interface_32x32_edited.png",
+         "image":"tilesets\/LimeZu_24_User_Interface_32x32_edited.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -22962,7 +22962,7 @@
         {
          "columns":16,
          "firstgid":130189,
-         "image":"..\/wa-internal-map\/assets\/18_Jail_32x32.png",
+         "image":"tilesets\/18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -22975,7 +22975,7 @@
         {
          "columns":5,
          "firstgid":130909,
-         "image":"..\/wa-internal-map\/assets\/Decor.png",
+         "image":"tilesets\/Decor.png",
          "imageheight":384,
          "imagewidth":160,
          "margin":0,
@@ -22988,7 +22988,7 @@
         {
          "columns":16,
          "firstgid":130969,
-         "image":"..\/wa-internal-map\/assets\/LimeZu_16_Grocery_store_32x32.png",
+         "image":"tilesets\/LimeZu_16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -23001,7 +23001,7 @@
         {
          "columns":75,
          "firstgid":132217,
-         "image":"..\/wa-internal-map\/assets\/23_Room_Builder_32x32_INRIA.png",
+         "image":"tilesets\/23_Room_Builder_32x32_INRIA.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -23014,7 +23014,7 @@
         {
          "columns":13,
          "firstgid":137242,
-         "image":"..\/wa-internal-map\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -23027,7 +23027,7 @@
         {
          "columns":4,
          "firstgid":137515,
-         "image":"..\/wa-internal-map\/assets\/animated_butterfly_32x32.png",
+         "image":"tilesets\/animated_butterfly_32x32.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -23061,7 +23061,7 @@
         {
          "columns":16,
          "firstgid":137519,
-         "image":"..\/wa-internal-map\/assets\/13_Conference_Hall_32x32.png",
+         "image":"tilesets\/13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -23074,7 +23074,7 @@
         {
          "columns":16,
          "firstgid":137711,
-         "image":"..\/wa-internal-map\/assets\/14_Basement_32x32.png",
+         "image":"tilesets\/14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -23087,7 +23087,7 @@
         {
          "columns":16,
          "firstgid":138511,
-         "image":"..\/wa-internal-map\/assets\/2_LivingRoom_32x32_INRIA.png",
+         "image":"tilesets\/2_LivingRoom_32x32_INRIA.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -23100,7 +23100,7 @@
         {
          "columns":40,
          "firstgid":139231,
-         "image":"..\/wa-internal-map\/assets\/modern_walls_and_floors.png",
+         "image":"tilesets\/modern_walls_and_floors.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -23113,7 +23113,7 @@
         {
          "columns":10,
          "firstgid":141551,
-         "image":"..\/wa-internal-map\/assets\/animated_security_camera_left_32x32.png",
+         "image":"tilesets\/animated_security_camera_left_32x32.png",
          "imageheight":32,
          "imagewidth":320,
          "margin":0,
@@ -23171,7 +23171,7 @@
         {
          "columns":5,
          "firstgid":141561,
-         "image":"..\/wa-internal-map\/assets\/animated_door_big_5_32x32.png",
+         "image":"tilesets\/animated_door_big_5_32x32.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -23203,7 +23203,7 @@
         {
          "columns":2,
          "firstgid":141576,
-         "image":"..\/wa-internal-map\/assets\/select-object.png",
+         "image":"tilesets\/select-object.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -23265,7 +23265,7 @@
         {
          "columns":22,
          "firstgid":141584,
-         "image":"..\/wa-internal-map\/assets\/24_Office_32x32.png",
+         "image":"tilesets\/24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -23278,7 +23278,7 @@
         {
          "columns":16,
          "firstgid":142112,
-         "image":"..\/wa-internal-map\/assets\/8_Gym_32x32.png",
+         "image":"tilesets\/8_Gym_32x32.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -23291,7 +23291,7 @@
         {
          "columns":4,
          "firstgid":142416,
-         "image":"..\/wa-internal-map\/assets\/animated_butterfly_2_32x32.png",
+         "image":"tilesets\/animated_butterfly_2_32x32.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -23325,7 +23325,7 @@
         {
          "columns":121,
          "firstgid":142420,
-         "image":"assets\/map_exports\/map_WA.png",
+         "image":"tilesets\/map_exports\/map_WA.png",
          "imageheight":2688,
          "imagewidth":3872,
          "margin":0,
