@@ -18,16 +18,6 @@ WA.onInit().then(() => {
     })
     WA.room.onLeaveLayer('zones/exitWA').subscribe(closePopup)
 
-    WA.room.onEnterLayer('zones/exitGen1').subscribe(() => {
-        console.log('exitGen1');
-        currentPopup = WA.ui.openPopup("exitGen1Popup", "Gates will open only to Gen1 owners! Mint will take place during the Summer season.\r\nStay connected with us!", [
-            {label: 'Website', className: 'primary', callback: () => WA.nav.openTab("https://www.metadventu.re")},
-            {label: 'Discord', className: 'primary', callback: () => WA.nav.openTab("https://discord.gg/DqUkUwA88d")},
-            {label: 'Twitter', className: 'primary', callback: () => WA.nav.openTab("https://twitter.com/Metadventure_")}
-        ]);
-    })
-    WA.room.onLeaveLayer('zones/exitGen1').subscribe(closePopup)
-
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
